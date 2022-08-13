@@ -36,10 +36,31 @@ Next you will need to perform the following
 ![Activate](images/activate_lab.png)
 
 This will open a jupyter lab notebook in your default browser. 
+
 Next open **'crypto_arbitrage.ipynb'** and click ![double_arrow](images/doube_arrow.png)
 
 This will run the entire notebook. Make sure to follow the pseudocode to see what I have coded and what is being displayed. 
 
+---
+
 ### Highlights from Notebook
+
 Here are a few snippets of what you can find in this project
+
 ![overlay](images/overlay_middle.png) ![display](images/display_data.png)
+
+---
+
+## Contributors
+
+Created by Silvano Ross while in the UW FinTech Bootcamp
+> Contact Info:
+> email: silvanoross3@gmail.com |
+> [GitHub](https://github.com/silvanoross) |
+> [LinkedIn](https://www.linkedin.com/in/silvano-ross-b6a15a93/)
+
+---
+
+## License
+
+[MIT](LICENSE)
