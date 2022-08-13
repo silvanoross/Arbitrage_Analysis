@@ -47,7 +47,11 @@ This will run the entire notebook. Make sure to follow the pseudocode to see wha
 
 Here are a few snippets of what you can find in this project
 
-![overlay](images/overlay_middle.png) ![display](images/display_data.png)
+Bitstamp vs Coinbase Closing Prices:
+![overlay](images/overlay_middle.png) 
+
+Bitstamp Data Used:
+![display](images/display_data.png)
 
 ---
 
