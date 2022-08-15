@@ -1,0 +1,50 @@
+  353  git add images
+  354  git status
+  355  git add .
+  356  git status
+  357  git commit -m "started editing README"
+  358  git push
+  359  git status
+  360  git add .
+  361  git status
+  362  git commit -m "updated license"
+  363  git push
+  364  git status
+  365  git add .
+  366  git commit -m "updated README"
+  367  git push
+  368  conda deactivate
+  369  exit
+  370  conda activate tdev
+  371  jupyter lab
+  372  conda deactivate
+  373  exit
+  374  conda activate tdev
+  375  jupyter lab
+  376  conda deactivate
+  377  exit
+  378  conda activate tdev
+  379  jupyter lab
+  380  cd ..
+  381  cd..
+  382  cd.
+  383  cd .
+  384  cd .
+  385  cd .
+  386  conda deactivate 
+  387  exit
+  388  conda activate tdev
+  389  jupyter lab
+  390  ls
+  391  cd Module_3_Challenge
+  392  git status
+  393  git add .
+  394  git status
+  395  git commit -m "made final additions for submission"
+  396  git push
+  397  git status
+  398  conda deactivate
+  399  exit
+  400  conda activate tdev
+  401  jupyter lab
+  402  history 50 > terminal_history.txt
