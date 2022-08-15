@@ -43,7 +43,12 @@ This will run the entire notebook. Make sure to follow the pseudocode to see wha
 
 ---
 
-### Highlights from Notebook
+## General Information & Highlights from Notebook
+
+### General Information:
+
+
+### Highlights:
 
 Here are a few snippets of what you can find in this project
 
