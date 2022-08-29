@@ -1,4 +1,4 @@
-# Module_3_Challenge - Arbitrage Analysis
+# Arbitrage Analysis
 
 This jupyter lab notebook will take the observer through an arbitrage analysis between two cryptocurrency exchanges, [Bitstamp](https://www.bitstamp.net) and [Coinbase](https://www.coinbase.com/). This analysis showcases how early on during an arbitrage opportunity the potential to profit is much higher compared to later when the two exchnages equilibrate and any spread between the two exchanges diminishes. 
 
